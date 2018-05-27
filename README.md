@@ -7,10 +7,14 @@
 3）使用了vue,vue-router,axios，vue-cli构建
 
 
-## display
+## demo
 ![Image text](https://github.com/yanglujie/elemesell-vue2.0-/raw/master/static/img/1.png)
 
 ![Image text](https://github.com/yanglujie/elemesell-vue2.0-/raw/master/static/img/2.png)
+
+![Image text](https://github.com/yanglujie/elemesell-vue2.0-/raw/master/static/img/3.png)
+
+![Image text](https://github.com/yanglujie/elemesell-vue2.0-/raw/master/static/img/4.png)
 ## Build Setup
 
 ``` bash
