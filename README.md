@@ -1,7 +1,16 @@
 # elemesell
 
 > A Vue.js project
+## introduce
+1）仿照饿了么做的点餐平台
+2）使用better-scroll实现页面的精准滚动，点击对应商品可以跳到商品详情页，其中有商品评价等信息
+3）使用了vue,vue-router,axios，vue-cli构建
 
+
+## display
+![Image text](https://github.com/yanglujie/elemesell-vue2.0-/raw/master/static/img/1.png)
+
+![Image text](https://github.com/yanglujie/elemesell-vue2.0-/raw/master/static/img/2.png)
 ## Build Setup
 
 ``` bash
